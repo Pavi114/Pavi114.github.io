@@ -1,0 +1,108 @@
+body {
+	color: white;
+	background-color: rgb(0,0,20);
+	font-family: 'Titillium Web', sans-serif;
+}
+.intro {
+	background-color: #7b1e7a;
+	margin-top: 49px;
+	padding-top: 100px;
+	height: 300px;
+	text-align: left;
+	padding-left: 15px;
+	font-size: 2rem;
+}
+
+.image {
+	width: 150px;
+	height: 150px;
+	float: left;
+	margin-right: 15px;
+}
+
+.disable {
+   pointer-events: none;
+   cursor: default;
+}
+
+.navbar-header .navbar-brand {
+	color: white;
+}
+
+.sizebtn {
+	width: 349px;
+	height: 50px;
+	font-size: 2.5rem;
+	text-align: center;
+}
+
+.sizebtn span {
+	padding: 5px;
+}
+
+.skillbtn {
+	background-color: #7b1e7a;
+}
+
+.resumebtn {
+	background-color: rgb(0, 153, 0);
+}
+
+.contactbtn {
+	background-color: rgb(204, 0, 0);
+}	
+
+.myskills{
+	color: black;
+}
+
+div.hidden {
+	display: none;
+}
+
+
+#contactme {
+	margin-top: 10px;
+	background-color: rgb(102, 51, 0);
+	height: 200px;
+	text-align: center;
+	font-size: 2rem;
+}
+
+#contactme i {
+	padding-right: 5px;
+}
+
+#aboutme {
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+	margin-top: 20px;
+	padding: 10px;
+	background-color: #7b1e7a;
+}
+
+#resume {
+	background-color: rgb(0, 153, 0);
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+	margin-top: 20px;
+	padding: 10px;
+}
+
+#contact {
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+	padding: 10px;
+	text-align: center;
+	margin-top: 20px;
+	background-color: rgb(204, 0, 0);
+}
+
+.forminput {
+	color: black;
+	padding: 5px;
+	text-align: center;
+}
